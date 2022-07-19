@@ -74,3 +74,5 @@ resource "aws_subnet" "dev-subnet-2" {
 #   value = aws_subnet.dev-subnet.availability_zone
   
 # }
+
+###NEW CHECKOUT####
