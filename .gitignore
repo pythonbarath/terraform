@@ -1,0 +1,10 @@
+
+.terraform/*
+
+.terraform/providers/*
+
+*.tfstate
+*.tfstate.*
+
+*.tfvars
+
